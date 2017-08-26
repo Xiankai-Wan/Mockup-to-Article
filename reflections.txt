@@ -1,0 +1,19 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+ 
+ * What new skills have you learned?
+  我对于HTML整体的知识又有了一层新的理解，对于网页结构与网页的制作流程有了大致的了解。
+  
+ * What has been easy?
+ 
+  对于页面的框架的搭建对我来说相对简单
+ * What has been difficult?
+ 
+  对于页面细微的调整对我来说不太容易掌控
+ * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  在我遇到一些不容易解决的麻烦时，我想起了之前课程里所说的方法，确实非常有用，非常棒！！！
+
+
+    
+---
+
+Your response goes here!
